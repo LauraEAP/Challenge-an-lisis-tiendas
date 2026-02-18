@@ -1,4 +1,4 @@
-# Challenge-an-lisis-tiendas
+# Challenge-analisis-tiendas
 Challenge alura sobre analisis del desempeño de 4 tiendas utilizando phyton 
 Este proyecto fue desarrollado en phyton
 Utiliza 4 archivos csv otorgados por alura, los que estan cargados en un repositorio github
